@@ -1,10 +1,10 @@
  ## 📋 E-Commerce Database
 This project contains SQL scripts to create and manage a simple E-commerce database which  includes the tables of
 
-1.Customers
-2.Orders
-3.Products
-4.Order Items (Order Details)
+1. Customers
+2. Orders
+3. Products
+4. Order Items (Order Details)
 
 ---
 
